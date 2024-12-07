@@ -1,4 +1,4 @@
-module github.com/najeira/google_cloud_trace
+module github.com/najeira/gctrace
 
 go 1.23.0
 

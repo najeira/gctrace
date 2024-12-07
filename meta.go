@@ -1,4 +1,4 @@
-package google_cloud_trace
+package gctrace
 
 import (
 	"context"
